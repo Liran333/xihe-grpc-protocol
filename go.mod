@@ -6,7 +6,7 @@ require (
 	github.com/opensourceways/community-robot-lib v0.0.0-20231018034126-a664e14dbb9d
 	github.com/sirupsen/logrus v1.9.3
 	google.golang.org/grpc v1.57.2
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.31.0
 )
 
 require (
